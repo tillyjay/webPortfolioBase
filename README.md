@@ -1,7 +1,7 @@
 # webPortfolio
 Basic web portfolio starter code that includes work samples, resume, about me, and contact.
 
-Used HTML, CSS, and JavaScript to create website.
+No CMS was used in the creation of the website. Pure HTML, CSS, and JavaScript was used for site creation.
 
 Desktop view
 
