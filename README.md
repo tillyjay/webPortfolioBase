@@ -1,7 +1,12 @@
 # webPortfolio
 Basic web portfolio starter code that includes work samples, resume, about me, and contact.
 
-No CMS was used in the creation of the website. Pure HTML, CSS, and JavaScript was used for site creation.
+As a student at NSCC I am looking forward to learning how to use CMS next year. For this project I only used HTML, CSS (with layout using mainly flexbox), and JavaScript.
+
+Ways that I could improve this site and learn from my mistakes:
+- Design for Mobile first, and then expand along breakpoints to the Desktop view. 
+- There are a few issues with the layout when it comes to being responsive that need to be improved upon, such as text being consistanly styled using the em property. 
+- I would add more white space aorund the elements to cut down on the cluttered feeling and to enhance the user's experience by giving the web page a more natural flow.
 
 Desktop view
 
